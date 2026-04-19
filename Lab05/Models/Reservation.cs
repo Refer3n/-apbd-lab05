@@ -1,4 +1,4 @@
-﻿namespace YourProject.Models
+﻿namespace Lab05.Models
 {
     public class Reservation
     {

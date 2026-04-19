@@ -1,5 +1,4 @@
 ﻿using Lab05.Models;
-using YourProject.Models;
 
 namespace Lab05.Data;
 
